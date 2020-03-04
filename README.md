@@ -14,3 +14,5 @@ iis
 abcde12345
 
 http://cms.umbraco.dev.local/
+
+C:\Projects\cms
